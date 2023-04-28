@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aarushi Agarwal
-- 👀 I’m interested in ..Python,C++,C.
+- 👀 I’m interested in ..Python,C++,C and currently a competitive programmer.
 - 🌱 I’m currently learning ...WebDevelopment
 - 💞️ I’m looking to collaborate on ...Python and C++ related projects.
 - 📫 How to reach me ...aarushiagarwal264@gmail.com
