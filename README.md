@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aarushi Agarwal
-- 👀 I’m interested in ..Python,C++,C and currently a competitive programmer-https://codeforces.com/profile/AarushiAgarwal515           https://www.codechef.com/users/aarushiagarwal.
+- 👀 I’m interested in ..Python,C++,Java and currently a competitive programmer-https://codeforces.com/profile/AarushiAgarwal515           https://www.codechef.com/users/aarushiagarwal.
 - 🌱 I’m currently learning ...WebDevelopment
-- 💞️ I’m looking to collaborate on ...Python and C++ related projects.
+- 💞️ I’m looking to collaborate on ...Python,Java and C++ related projects.
 - 📫 How to reach me ...aarushiagarwal264@gmail.com
 
 <!---
