@@ -1,6 +1,6 @@
 ![logo](https://github.com/aarushiagarwal131/aarushiagarwal131/blob/main/1.png)
 <h1 align="center">Hi 👋, I'm Aarushi Agarwal</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A Passionate problem solver and project builder, dedicated to enhancing software solutions with a strong focus on clean code and continuous improvement.</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarushiagarwal131&label=Profile%20views&color=0e75b6&style=flat" alt="aarushiagarwal131" /> </p>
@@ -22,7 +22,7 @@
 <a href="https://www.codechef.com/users/aarushiagarwal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aarushiagarwal" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/aarushiagarwal515" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aarushiagarwal515" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aarushiagarwal123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aarushiagarwal123" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@aarushi agarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@aarushi agarwal" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@aarushiagarwal264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@aarushi agarwal" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/<aarushiagarwal264>/https://auth.geeksforgeeks.org/user/aarushiagarwal264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<aarushiagarwal264>/https://auth.geeksforgeeks.org/user/aarushiagarwal264" height="30" width="40" /></a>
 </p>
 
